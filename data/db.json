@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Computer",
+      "price": 5000,
+      "checked": true
+    },
+    {
+      "id": "2",
+      "name": "Microwave",
+      "price": 4000,
+      "checked": true
+    },
+    {
+      "id": "3",
+      "name": "Smartphone",
+      "price": 3000,
+      "checked": false
+    },
+    {
+      "id": "4",
+      "name": "Tablet",
+      "price": 2000,
+      "checked": false
+    },
+    {
+      "id": "5",
+      "name": "Smartwatch",
+      "price": 1000,
+      "checked": false
+    },
+    {
+      "id": "f8f8",
+      "name": "Mattress",
+      "price": "7999",
+      "checked": true
+    },
+    {
+      "id": "8c90",
+      "name": "Headset",
+      "price": "500",
+      "checked": true
+    }
+  ]
+}
